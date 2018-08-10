@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Erioifpud",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "underscore": "^1.9.1"
+  }
+}
